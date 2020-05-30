@@ -1,0 +1,12 @@
+
+EXPORTS
+	lua_baselibopen
+	lua_iolibopen
+	lua_strlibopen
+	lua_mathlibopen
+	lua_dblibopen
+	luaL_openlib
+	luaL_argerror
+	luaL_buffinit
+	luaL_addlstring
+	luaL_pushresult

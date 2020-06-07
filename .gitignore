@@ -1,0 +1,17 @@
+
+*.db
+*.db-shm
+*.db-wal
+*.exe
+*.pdb
+*.dll
+*.exp
+*.lib
+*.vcxproj
+*.filters
+*.user
+*.sln
+*.log
+*.obj
+*.tlog
+*.suo
